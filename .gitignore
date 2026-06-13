@@ -1,0 +1,13 @@
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+FinancialApp/FinancialApp/GoogleService-Info.plist
+GoogleService-Info.plist
+# macOS
+.DS_Store
+
+Secrets.swift
